@@ -1,0 +1,6 @@
+projectKey=salesforce
+serverUrl=http://10.0.20.80:9000/sonar
+serverVersion=8.2.0.32929
+dashboardUrl=http://10.0.20.80:9000/sonar/dashboard?id=salesforce
+ceTaskId=AXHfZX8qiYPDGmbHxnAe
+ceTaskUrl=http://10.0.20.80:9000/sonar/api/ce/task?id=AXHfZX8qiYPDGmbHxnAe
